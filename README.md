@@ -1,6 +1,16 @@
 # AhoyHacks 2022
-### Official submission to AhoyHacks 2022
 
+
+## Winner, Ahoy Hacks 2022
+#### "X Marks The Spot" category prize for the best hack built on the theme of the hackathon i.e "Pirates". 
+Category Prize awarded - Snapchat Spectacles
+
+![winners-square](https://user-images.githubusercontent.com/75165587/188316605-92cbf23f-5082-4676-92f8-9acb5729fb74.png)
+
+
+Check out the project video here - [YouTube](https://youtu.be/ddZyEROSzJE)
+
+### Official submission to AhoyHacks 2022
 ![AhoyHacks](Repository-Assests/Cover.png) 
 
 ## Inspiration💡
